@@ -19,5 +19,3 @@ def solution(h, q):
         else:
             final.append(-1)
     return final
-        
-#print(solution(3,[7,3,5,1]))
